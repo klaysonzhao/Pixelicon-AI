@@ -1,0 +1,70 @@
+styles:
+  3D黏土风:
+    medium: "3D cute clay style, minimalist isometric UI design"
+    material: "Smooth matte plastic finish, soft squishy texture, rounded edges"
+    lighting: "Soft studio lighting, pastel color palette (pink, mint, lavender, cream), rendered in Blender 3D, Octane render, subtle ambient occlusion"
+    background: "solid white background"
+    description: "可爱的3D黏土质感，圆润饱满，柔和色彩"
+
+  霓虹赛博朋克:
+    medium: "Cyberpunk neon line art, futuristic UI elements, sci-fi tech style"
+    material: "Glowing neon tubes on dark brushed metal, holographic effects, electric blue and magenta accents"
+    lighting: "Cinematic lighting, volumetric glow, high contrast, neon rim lighting, dark atmospheric background"
+    background: "solid dark background"
+    description: "未来科技感，霓虹发光线条，高对比度"
+
+  极简毛玻璃:
+    medium: "Ultra-modern frosted glassmorphism style, minimalist UI, clean geometric shapes"
+    material: "Translucent acrylic panels with glowing edges, semi-transparent glass surfaces, subtle gradients"
+    lighting: "Bright ambient light, vibrant gradients (purple to blue, orange to pink), soft drop shadows, backlit effects"
+    background: "solid white background"
+    description: "现代毛玻璃质感，半透明渐变，轻盈优雅"
+
+  扁平渐变:
+    medium: "Modern flat design 2.0, minimal geometric UI icons, long shadow effect"
+    material: "Smooth vector surfaces, vibrant gradient fills (purple to orange, blue to teal), no texture"
+    lighting: "Even lighting, bold color palette, subtle long shadows at 45 degrees"
+    background: "solid white background"
+    description: "扁平设计风格，渐变色彩，简洁现代"
+
+  拟物厚涂:
+    medium: "Realistic skeuomorphic design, tactile 3D UI elements, detailed illustration style"
+    material: "Leather texture, brushed metal, wood grain, fabric details, rich material properties"
+    lighting: "Dramatic directional lighting, realistic shadows, specular highlights, photorealistic rendering"
+    background: "solid light gray background"
+    description: "拟真材质，立体厚重，细节丰富"
+
+  线性艺术:
+    medium: "Minimalist line art style, single-line continuous drawing, modern artistic UI"
+    material: "Clean vector strokes, monochromatic or duo-tone color scheme, thin elegant lines"
+    lighting: "Flat lighting, no shadows, high contrast against background"
+    background: "solid white background"
+    description: "极简线条艺术，单色或双色，优雅流畅"
+
+  水彩手绘:
+    medium: "Watercolor illustration style, hand-painted artistic UI icons, organic shapes"
+    material: "Soft watercolor texture, paper grain effect, bleeding edges, organic color blends"
+    lighting: "Natural soft lighting, pastel color palette, gentle gradients, artistic brush strokes"
+    background: "solid cream background"
+    description: "水彩插画风格，手绘质感，柔和自然"
+
+  金属质感:
+    medium: "Premium metallic UI design, luxury brand aesthetic, sophisticated modern style"
+    material: "Polished gold, silver, and bronze metals, reflective surfaces, engraved details"
+    lighting: "Studio lighting with reflections, glossy highlights, luxury product photography style"
+    background: "solid dark gray background"
+    description: "高端金属质感，奢华精致，反光效果"
+
+  等距3D:
+    medium: "Isometric 3D illustration style, technical diagram aesthetic, game UI design"
+    material: "Clean geometric shapes, solid colors with flat shading, precise angles"
+    lighting: "Consistent isometric lighting (45-degree angle), subtle shadows, vibrant color blocks"
+    background: "solid white background"
+    description: "等距视角3D，几何精确，色块分明"
+
+  渐变网格:
+    medium: "Modern gradient mesh style, abstract fluid shapes, contemporary web design"
+    material: "Smooth gradient meshes, iridescent color transitions, soft organic forms"
+    lighting: "Ambient glow, colorful gradient overlays (holographic rainbow effects), soft diffusion"
+    background: "solid white background"
+    description: "渐变网格，流体形态，彩虹色过渡"

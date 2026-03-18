@@ -1,0 +1,14 @@
+api:
+  retry_attempts: 3
+  retry_backoff: 2
+  timeout: 30
+
+generation:
+  default_resolution: "1K"
+  default_aspect_ratio: "16:9"
+  default_output_format: "png"
+  max_icons_per_batch: 10
+
+ui:
+  show_advanced_options: true
+  enable_history: false
